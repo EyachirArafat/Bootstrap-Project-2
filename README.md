@@ -1,2 +1,1 @@
-# Bootstrap-Project-2
-2nd Bootstrap Project [Assignment]
+- ✔️ <Strong>Live view of this project:</strong> (https://eyachirarafat.github.io/Bootstrap-Project-2/)
